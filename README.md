@@ -1,4 +1,5 @@
-https://streak-stats.demolab.com/?user=samuelnmu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuelnmu&theme=dark)](https://git.io/streak-stats)
+
 - 👋 Hi, I’m @samuelnmu
 - 👀 I’m interested in Coding and cyber security...
 - 🌱 I’m currently learning coding and cyber security...
